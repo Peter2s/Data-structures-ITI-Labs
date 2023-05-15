@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1672762253 source:j:\iti\iti\data structures\arrayoflinkedlist\main.cpp
+	<iostream>
+	<string.h>
+	<LinkedList.h>
+
+1672762126 source:j:\iti\iti\data structures\arrayoflinkedlist\src\node.cpp
+	"Node.h"
+
+1672762277 j:\iti\iti\data structures\arrayoflinkedlist\include\node.h
+	<string.h>
+
+1672762232 j:\iti\iti\data structures\arrayoflinkedlist\include\linkedlist.h
+	<iostream>
+	<Node.h>
+

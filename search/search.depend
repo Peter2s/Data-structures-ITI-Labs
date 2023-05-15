@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673255689 source:j:\iti\iti\data structures\search\main.cpp
+	<iostream>
+	<string.h>
+
